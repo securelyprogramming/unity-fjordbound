@@ -6,17 +6,27 @@
   "projectPath": "unity-fjordbound/Game",
   "galleryRoot": "_Workspace",
   "isConcept": false,
-  "status": "development-prototype-previews-pending",
+  "status": "three-chapter-development-prototype",
   "stages": [
     {
       "id": "frontier-chapter-1",
       "title": "Chapter 1: The Broken Longship",
-      "kind": "development-campaign-reference",
+      "kind": "native-development-gameplay-capture",
       "managedBy": "frontier-workbench-v1",
-      "images": {},
+      "images": {
+        "preview": {
+          "path": "Portfolio/Previews/frontier/fjordbound/2026-10-13/gameplay-chapter1.png",
+          "bytes": 148885,
+          "sha256": "5d5d4584ee275ec67b9769552acd3c48f240ca771f79e5e2321c02c0110ccb8f",
+          "width": 1440,
+          "height": 900
+        }
+      },
       "notes": [
         "Astrid returns to a broken longship and a settlement waiting for winter.",
-        "This is an authored campaign reference. A native preview is connected only after its matching report and image hashes verify."
+        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind chapter1, chapter 1, simulation tick 240.",
+        "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
       "sourceEvidence": [
         "unity-fjordbound/ContentSource/campaign.json",
@@ -27,12 +37,22 @@
     {
       "id": "frontier-chapter-2",
       "title": "Chapter 2: Stormward Shore",
-      "kind": "development-campaign-reference",
+      "kind": "native-development-gameplay-capture",
       "managedBy": "frontier-workbench-v1",
-      "images": {},
+      "images": {
+        "preview": {
+          "path": "Portfolio/Previews/frontier/fjordbound/2026-10-13/gameplay-chapter2.png",
+          "bytes": 159715,
+          "sha256": "79361a418091d293049cad2fd3ea23232500d09a42b6b21cffd2a855774cd8bd",
+          "width": 1440,
+          "height": 900
+        }
+      },
       "notes": [
         "Eirik needs timber and the stores lost on the stormward shore, where raiders now camp.",
-        "This is an authored campaign reference. A native preview is connected only after its matching report and image hashes verify."
+        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind chapter2, chapter 2, simulation tick 242.",
+        "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
       "sourceEvidence": [
         "unity-fjordbound/ContentSource/campaign.json",
@@ -43,17 +63,211 @@
     {
       "id": "frontier-chapter-3",
       "title": "Chapter 3: Oath of the Fjord",
-      "kind": "development-campaign-reference",
+      "kind": "native-development-gameplay-capture",
       "managedBy": "frontier-workbench-v1",
-      "images": {},
+      "images": {
+        "preview": {
+          "path": "Portfolio/Previews/frontier/fjordbound/2026-10-13/gameplay-chapter3.png",
+          "bytes": 157331,
+          "sha256": "72b88febb03befedda98d447b2697a5e7dbc8af19cc27490d3a3f8d81a72d0f8",
+          "width": 1440,
+          "height": 900
+        }
+      },
       "notes": [
         "Liv calls the clan to keep its oath: defend the homes before chasing glory across the fjord.",
-        "This is an authored campaign reference. A native preview is connected only after its matching report and image hashes verify."
+        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind chapter3, chapter 3, simulation tick 242.",
+        "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
       "sourceEvidence": [
         "unity-fjordbound/ContentSource/campaign.json",
         "unity-fjordbound/Game/Assets/Frontier/Core/Chapters.cs",
         "unity-fjordbound/Game/Assets/Frontier/Unity/Art/FrontierWorldView.cs"
+      ]
+    },
+    {
+      "id": "frontier-menu",
+      "title": "Native campaign menu",
+      "kind": "native-development-ui-capture",
+      "managedBy": "frontier-workbench-v1",
+      "images": {
+        "preview": {
+          "path": "Portfolio/Previews/frontier/fjordbound/2026-10-13/gameplay-menu.png",
+          "bytes": 107160,
+          "sha256": "9be263d0b5763cc9aee02efd92717a52b580e8f159759d7e143f3a9d5bb67996",
+          "width": 1440,
+          "height": 900
+        }
+      },
+      "notes": [
+        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind menu, chapter 1, simulation tick 0.",
+        "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
+      ],
+      "sourceEvidence": [
+        "unity-fjordbound/Game/Assets/Frontier/Unity/FrontierUI.cs"
+      ]
+    },
+    {
+      "id": "frontier-story",
+      "title": "Story 1",
+      "kind": "native-development-ui-capture",
+      "managedBy": "frontier-workbench-v1",
+      "images": {
+        "preview": {
+          "path": "Portfolio/Previews/frontier/fjordbound/2026-10-13/gameplay-story.png",
+          "bytes": 120644,
+          "sha256": "d8212193e871dcd6d15a8e335ff1ffe84028fd89cb57eb3b4068c43d92933e5e",
+          "width": 1440,
+          "height": 900
+        }
+      },
+      "notes": [
+        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind story, chapter 1, simulation tick 0.",
+        "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
+      ],
+      "sourceEvidence": [
+        "unity-fjordbound/Game/Assets/Frontier/Unity/FrontierUI.cs"
+      ]
+    },
+    {
+      "id": "frontier-victory1",
+      "title": "Chapter victory 1",
+      "kind": "native-development-ui-capture",
+      "managedBy": "frontier-workbench-v1",
+      "images": {
+        "preview": {
+          "path": "Portfolio/Previews/frontier/fjordbound/2026-10-13/gameplay-victory1.png",
+          "bytes": 149176,
+          "sha256": "90a9e52cd1da8fa566a2539d210495dd43ec4da6368f528b5da54484aae1486e",
+          "width": 1440,
+          "height": 900
+        }
+      },
+      "notes": [
+        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind victory1, chapter 1, simulation tick 332.",
+        "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
+      ],
+      "sourceEvidence": [
+        "unity-fjordbound/Game/Assets/Frontier/Unity/FrontierUI.cs"
+      ]
+    },
+    {
+      "id": "frontier-story2",
+      "title": "Story 2",
+      "kind": "native-development-ui-capture",
+      "managedBy": "frontier-workbench-v1",
+      "images": {
+        "preview": {
+          "path": "Portfolio/Previews/frontier/fjordbound/2026-10-13/gameplay-story2.png",
+          "bytes": 136313,
+          "sha256": "40ebceef29d30a6bec09df2d22cb10778519514d373a8de26b82f1df319b131f",
+          "width": 1440,
+          "height": 900
+        }
+      },
+      "notes": [
+        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind story2, chapter 2, simulation tick 2.",
+        "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
+      ],
+      "sourceEvidence": [
+        "unity-fjordbound/Game/Assets/Frontier/Unity/FrontierUI.cs"
+      ]
+    },
+    {
+      "id": "frontier-victory2",
+      "title": "Chapter victory 2",
+      "kind": "native-development-ui-capture",
+      "managedBy": "frontier-workbench-v1",
+      "images": {
+        "preview": {
+          "path": "Portfolio/Previews/frontier/fjordbound/2026-10-13/gameplay-victory2.png",
+          "bytes": 155791,
+          "sha256": "4b26361eadbebc8cf69098527de0a2d96691ab613ac4b91a9a4bb58665707f80",
+          "width": 1440,
+          "height": 900
+        }
+      },
+      "notes": [
+        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind victory2, chapter 2, simulation tick 462.",
+        "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
+      ],
+      "sourceEvidence": [
+        "unity-fjordbound/Game/Assets/Frontier/Unity/FrontierUI.cs"
+      ]
+    },
+    {
+      "id": "frontier-story3",
+      "title": "Story 3",
+      "kind": "native-development-ui-capture",
+      "managedBy": "frontier-workbench-v1",
+      "images": {
+        "preview": {
+          "path": "Portfolio/Previews/frontier/fjordbound/2026-10-13/gameplay-story3.png",
+          "bytes": 140095,
+          "sha256": "1105d43371e7e29121704fa864608493ff1ac59b640594b824ea640d7fb2dceb",
+          "width": 1440,
+          "height": 900
+        }
+      },
+      "notes": [
+        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind story3, chapter 3, simulation tick 2.",
+        "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
+      ],
+      "sourceEvidence": [
+        "unity-fjordbound/Game/Assets/Frontier/Unity/FrontierUI.cs"
+      ]
+    },
+    {
+      "id": "frontier-victory3",
+      "title": "Chapter victory 3",
+      "kind": "native-development-ui-capture",
+      "managedBy": "frontier-workbench-v1",
+      "images": {
+        "preview": {
+          "path": "Portfolio/Previews/frontier/fjordbound/2026-10-13/gameplay-victory3.png",
+          "bytes": 159375,
+          "sha256": "9da467d3572a371cb1ce0178b42f93aee110108653f959c3c725c1011124d080",
+          "width": 1440,
+          "height": 900
+        }
+      },
+      "notes": [
+        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind victory3, chapter 3, simulation tick 538.",
+        "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
+      ],
+      "sourceEvidence": [
+        "unity-fjordbound/Game/Assets/Frontier/Unity/FrontierUI.cs"
+      ]
+    },
+    {
+      "id": "frontier-finale",
+      "title": "Native campaign result",
+      "kind": "native-development-ui-capture",
+      "managedBy": "frontier-workbench-v1",
+      "images": {
+        "preview": {
+          "path": "Portfolio/Previews/frontier/fjordbound/2026-10-13/gameplay-finale.png",
+          "bytes": 131870,
+          "sha256": "fc4561adcd35416e8cf43d2d180a1995bf55d73703811dfe91aab7127323b188",
+          "width": 1440,
+          "height": 900
+        }
+      },
+      "notes": [
+        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind finale, chapter 3, simulation tick 538.",
+        "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
+      ],
+      "sourceEvidence": [
+        "unity-fjordbound/Game/Assets/Frontier/Unity/FrontierUI.cs"
       ]
     }
   ],
