@@ -1,0 +1,69 @@
+{
+  "art": {
+    "accent": "#92d9ed",
+    "kind": "original-vector",
+    "motif": "Longship and mountain fjord",
+    "provenance": "Repository-native SVG authored for this game; no paid source artwork.",
+    "sourceSha256": "fcd770ba2a3c7164a61d69cf6f23b639b77475df725368468b70ecd274919e5c"
+  },
+  "assets": {
+    "icon-128.png": {
+      "bytes": 19174,
+      "sha256": "9b583a99bac0a52bbde74d04b0190756b57dfcb58b1c9f9f75ee6bd19f1e0295"
+    },
+    "icon-16.png": {
+      "bytes": 903,
+      "sha256": "d941592e3b409c0037e30012c33ea47f7fcadfc9052193a88a9c27a9ef4a649f"
+    },
+    "icon-256.png": {
+      "bytes": 51404,
+      "sha256": "b89619cabc0f4bb2c8426aafafa048573530c202d4d70e7b2aefbb4fdec6e4bb"
+    },
+    "icon-32.png": {
+      "bytes": 2423,
+      "sha256": "1c7d6605e8ddacb7d7798a7755fde51cb4bacaa2dfa3760d70eb7150e4218083"
+    },
+    "icon-512.png": {
+      "bytes": 136330,
+      "sha256": "667f20ecb07c8e44ca6ce5c7eb96f10ddc8b1af32626eae3f53d4a31df533d9b"
+    },
+    "icon-64.png": {
+      "bytes": 6927,
+      "sha256": "537e88c919678ed3b245965ffc46cd7a7f99d20045e3a1b0241428f6bcfd6658"
+    },
+    "icon.bmp": {
+      "bytes": 196662,
+      "sha256": "0db46e9452f1796583a30db06bbf4fbad886648ea325a79e80c740f8e69d47b3"
+    },
+    "icon.icns": {
+      "bytes": 639456,
+      "sha256": "0aca49720082474308bb679ff3b7de5d2c227f21340b1d575584f31c09cb64e3"
+    },
+    "icon.ico": {
+      "bytes": 87674,
+      "sha256": "2035c0a15d070b66d0003dbc9aa60e1469c2bf989b358426181d094235c8af90"
+    },
+    "icon.png": {
+      "bytes": 270559,
+      "sha256": "b3d607eae6d206673ed6f55ce6a57a4c46379cecc6fcf54c2716a9f4da91ec54"
+    },
+    "source.png": {
+      "bytes": 251344,
+      "sha256": "fcd770ba2a3c7164a61d69cf6f23b639b77475df725368468b70ecd274919e5c"
+    },
+    "source.svg": {
+      "bytes": 1515,
+      "sha256": "5bbb80335bd3c3556367b173eeea8c1bafc225bbab88429bb10aef04fa2db020"
+    }
+  },
+  "gameId": "fjordbound",
+  "installs": [
+    {
+      "asset": "source.png",
+      "path": "Assets/Editor/Branding/GameAppIcon.png"
+    }
+  ],
+  "pipeline": "securelyprogramming/game-workbench/scripts/game-icons.py",
+  "schemaVersion": 1,
+  "scope": "Application icons only; store capsules and platform release certification are separate."
+}

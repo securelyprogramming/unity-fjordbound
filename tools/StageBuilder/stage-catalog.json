@@ -15,16 +15,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/fjordbound/2026-10-13/gameplay-chapter1.png",
-          "bytes": 148885,
-          "sha256": "5d5d4584ee275ec67b9769552acd3c48f240ca771f79e5e2321c02c0110ccb8f",
+          "path": "Portfolio/Previews/polish/2026-10-13/fjordbound/gameplay-chapter1.png",
+          "bytes": 160041,
+          "sha256": "c9f3c444af2c6fbac6f46132f25cb700f679ea9a77255361145306e22a81e75b",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
         "Astrid returns to a broken longship and a settlement waiting for winter.",
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind chapter1, chapter 1, simulation tick 240.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: chapter1, chapter 1, simulation tick 240.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
@@ -41,16 +41,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/fjordbound/2026-10-13/gameplay-chapter2.png",
-          "bytes": 159715,
-          "sha256": "79361a418091d293049cad2fd3ea23232500d09a42b6b21cffd2a855774cd8bd",
+          "path": "Portfolio/Previews/polish/2026-10-13/fjordbound/gameplay-chapter2.png",
+          "bytes": 173986,
+          "sha256": "3493529687baaf6d839d2c03c3cd4ec5a8db4dc93fe6d0211fca131ef68278eb",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
         "Eirik needs timber and the stores lost on the stormward shore, where raiders now camp.",
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind chapter2, chapter 2, simulation tick 242.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: chapter2, chapter 2, simulation tick 242.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
@@ -67,16 +67,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/fjordbound/2026-10-13/gameplay-chapter3.png",
-          "bytes": 157331,
-          "sha256": "72b88febb03befedda98d447b2697a5e7dbc8af19cc27490d3a3f8d81a72d0f8",
+          "path": "Portfolio/Previews/polish/2026-10-13/fjordbound/gameplay-chapter3.png",
+          "bytes": 170412,
+          "sha256": "f8c32e800456e34669567c0fbac85bd679c17d75e42587f4f840927c35dd060a",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
         "Liv calls the clan to keep its oath: defend the homes before chasing glory across the fjord.",
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind chapter3, chapter 3, simulation tick 242.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: chapter3, chapter 3, simulation tick 242.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
@@ -93,16 +93,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/fjordbound/2026-10-13/gameplay-menu.png",
-          "bytes": 107160,
-          "sha256": "9be263d0b5763cc9aee02efd92717a52b580e8f159759d7e143f3a9d5bb67996",
+          "path": "Portfolio/Previews/polish/2026-10-13/fjordbound/gameplay-menu.png",
+          "bytes": 107193,
+          "sha256": "c0f34c8bbeaef5f73bc37589fe776b29cdcf8ba676ce95d702b9ef500d1f9c5b",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind menu, chapter 1, simulation tick 0.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: menu, chapter 1, simulation tick 0.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
       "sourceEvidence": [
@@ -116,16 +116,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/fjordbound/2026-10-13/gameplay-story.png",
-          "bytes": 120644,
-          "sha256": "d8212193e871dcd6d15a8e335ff1ffe84028fd89cb57eb3b4068c43d92933e5e",
+          "path": "Portfolio/Previews/polish/2026-10-13/fjordbound/gameplay-story.png",
+          "bytes": 120638,
+          "sha256": "6b2291ebbeb725e7e0f564461360fb329e9ed47cdf71b2b854a63852f4f8861f",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind story, chapter 1, simulation tick 0.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: story, chapter 1, simulation tick 0.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
       "sourceEvidence": [
@@ -139,16 +139,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/fjordbound/2026-10-13/gameplay-victory1.png",
-          "bytes": 149176,
-          "sha256": "90a9e52cd1da8fa566a2539d210495dd43ec4da6368f528b5da54484aae1486e",
+          "path": "Portfolio/Previews/polish/2026-10-13/fjordbound/gameplay-victory1.png",
+          "bytes": 167489,
+          "sha256": "f461f693383bbdaa8f228b4802d6e423c63891433669bd6587cfcd6dfdcce414",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind victory1, chapter 1, simulation tick 332.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: victory1, chapter 1, simulation tick 332.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
       "sourceEvidence": [
@@ -162,16 +162,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/fjordbound/2026-10-13/gameplay-story2.png",
-          "bytes": 136313,
-          "sha256": "40ebceef29d30a6bec09df2d22cb10778519514d373a8de26b82f1df319b131f",
+          "path": "Portfolio/Previews/polish/2026-10-13/fjordbound/gameplay-story2.png",
+          "bytes": 136716,
+          "sha256": "611061414d378f9d433e1aceca05114c4bd0dac8725b8b10ec9012dfce79282e",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind story2, chapter 2, simulation tick 2.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: story2, chapter 2, simulation tick 2.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
       "sourceEvidence": [
@@ -185,16 +185,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/fjordbound/2026-10-13/gameplay-victory2.png",
-          "bytes": 155791,
-          "sha256": "4b26361eadbebc8cf69098527de0a2d96691ab613ac4b91a9a4bb58665707f80",
+          "path": "Portfolio/Previews/polish/2026-10-13/fjordbound/gameplay-victory2.png",
+          "bytes": 172935,
+          "sha256": "a310889c1a67cadd200305b7a727e31131589b3d0163a4475724d9135fcb1ca4",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind victory2, chapter 2, simulation tick 462.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: victory2, chapter 2, simulation tick 462.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
       "sourceEvidence": [
@@ -208,16 +208,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/fjordbound/2026-10-13/gameplay-story3.png",
-          "bytes": 140095,
-          "sha256": "1105d43371e7e29121704fa864608493ff1ac59b640594b824ea640d7fb2dceb",
+          "path": "Portfolio/Previews/polish/2026-10-13/fjordbound/gameplay-story3.png",
+          "bytes": 140289,
+          "sha256": "d9cce7b4b736df755f1a139962b2b725eef84aa173409cb1c7c5f8d74c9ee13a",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind story3, chapter 3, simulation tick 2.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: story3, chapter 3, simulation tick 2.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
       "sourceEvidence": [
@@ -231,16 +231,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/fjordbound/2026-10-13/gameplay-victory3.png",
-          "bytes": 159375,
-          "sha256": "9da467d3572a371cb1ce0178b42f93aee110108653f959c3c725c1011124d080",
+          "path": "Portfolio/Previews/polish/2026-10-13/fjordbound/gameplay-victory3.png",
+          "bytes": 176350,
+          "sha256": "a098b805152c1aa8196caab9faa5804d9b1bd42519cd42188d99b5b46159b84e",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind victory3, chapter 3, simulation tick 538.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: victory3, chapter 3, simulation tick 538.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
       "sourceEvidence": [
@@ -254,16 +254,16 @@
       "managedBy": "frontier-workbench-v1",
       "images": {
         "preview": {
-          "path": "Portfolio/Previews/frontier/fjordbound/2026-10-13/gameplay-finale.png",
-          "bytes": 131870,
-          "sha256": "fc4561adcd35416e8cf43d2d180a1995bf55d73703811dfe91aab7127323b188",
+          "path": "Portfolio/Previews/polish/2026-10-13/fjordbound/gameplay-finale.png",
+          "bytes": 132399,
+          "sha256": "730928085ab74dd9d55e200803dd994cd65d04dabe797f6394d871fb654cb8c3",
           "width": 1440,
           "height": 900
         }
       },
       "notes": [
-        "ScreenCapture from the Unity 6000.6.0f1 native OSXPlayer; report capture kind finale, chapter 3, simulation tick 538.",
         "The matching native report records three chapters completed through production commands. This capture is a view of the listed chapter, not a playable browser build.",
+        "Fresh polished Unity6000.6 macOS player, 2026-10-13. Actual ScreenCapture: finale, chapter 3, simulation tick 538.",
         "Physical controller ergonomics, separate-machine LAN, Windows/Linux execution and Steam release acceptance remain separate checks."
       ],
       "sourceEvidence": [
