@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "fjordbound",
+  "title": "Fjordbound",
+  "engine": "Unity",
+  "family": "Viking adventure",
+  "projectPath": "Game",
+  "gameType": "3d-game",
+  "description": "Launch a longship, capture guarded raid caches, bank plunder at harbour, and upgrade a longhouse. Three-chapter development prototype; controller, multiplayer, platform and Steam release acceptance are tracked separately.",
+  "links": {
+    "repository": "https://github.com/securelyprogramming/unity-fjordbound",
+    "websiteRepository": null,
+    "website": null,
+    "jira": null
+  },
+  "builder": {
+    "openScript": null,
+    "guide": "unity-fjordbound/tools/StageBuilder/README.md"
+  },
+  "catalog": "unity-fjordbound/tools/StageBuilder/stage-catalog.json"
+}

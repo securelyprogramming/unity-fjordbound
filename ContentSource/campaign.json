@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "id": "fjordbound",
+  "title": "Fjordbound",
+  "mode": "fjordbound",
+  "genre": "viking-adventure",
+  "brief": "Gather timber and provisions, recover raid caches and defend a fjord settlement before the longship departs.",
+  "seed": 360,
+  "difficulty": 1,
+  "repository": "https://github.com/securelyprogramming/unity-fjordbound",
+  "folder": "unity-fjordbound",
+  "engine": "Unity",
+  "engineVersion": "6000.6.0f1",
+  "project": "Game",
+  "targetPlatforms": [
+    "Windows",
+    "macOS",
+    "Linux"
+  ],
+  "storeTarget": "Steam premium PC",
+  "players": "1–4 LAN cooperative players; local solo campaign",
+  "accent": "#77aabd",
+  "setting": "fjord",
+  "enemy": "raider",
+  "cast": [
+    {
+      "name": "Astrid Rune",
+      "role": "shieldbearer"
+    },
+    {
+      "name": "Eirik Holt",
+      "role": "shipwright"
+    },
+    {
+      "name": "Liv",
+      "role": "lore keeper"
+    }
+  ],
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Broken Longship",
+      "story": "Astrid returns to a broken longship and a settlement waiting for winter.",
+      "layoutSeed": 360
+    },
+    {
+      "number": 2,
+      "title": "Stormward Shore",
+      "story": "Eirik needs timber and the stores lost on the stormward shore, where raiders now camp.",
+      "layoutSeed": 533
+    },
+    {
+      "number": 3,
+      "title": "Oath of the Fjord",
+      "story": "Liv calls the clan to keep its oath: defend the homes before chasing glory across the fjord.",
+      "layoutSeed": 706
+    }
+  ],
+  "status": "development; build, gameplay, physical controller, multi-machine LAN and Steam release acceptance tracked separately",
+  "inspiration": "Original characters, names, story and code; genre references are design inspiration only."
+}
