@@ -1,0 +1,42 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-14",
+  "game": "fjordbound",
+  "status": "source-integrated-native-intro-unverified",
+  "creator": "ProgrammingSecurely",
+  "website": "https://programmingsecurely.com/",
+  "durationSeconds": 3,
+  "liveGameBehind": true,
+  "sourceSha256": {
+    "runtime": "fecf9721b13182a14f2b7218fd9c42902dae6bfa016c5c908254fad81ddefaa3",
+    "editorPanelImporter": "aa59584de8a38c7378096ca039918c56a66a1ac28a0735af31ef10259ec23a39",
+    "settings": "3b6f89033908f5410f98b2d816ef87a7db762f75399bb771c5e186c96588445c"
+  },
+  "purchasedPanel": {
+    "pack": "UI MMORPG Dark Templar Wenrexa",
+    "sourceProject": "fortressclash-unity/Assets/_FortressClash/Resources/Art/UI/CouncilPanel.png",
+    "product": "Source game ContentPipeline/ui/menu-assets.json",
+    "cacheFile": "bd131c57af08bb1c6bf7b49b50041b5b976f098028d5b467eebea949925f71ce.png",
+    "sha256": "bd131c57af08bb1c6bf7b49b50041b5b976f098028d5b467eebea949925f71ce",
+    "bytes": 103818,
+    "provenance": "User-owned Humble Game Dev GUI Goodness selection; original source and licence retained privately."
+  },
+  "sourceAndCacheOriginalHashVerified": true,
+  "paidSourceTracked": false,
+  "sharedInstallerTests": 7,
+  "nativeIntroAcceptance": null,
+  "scope": "Independent intro/UI source and config integration; game systems, scenes and Frontier runtime are unchanged by this module. Purchased panels are privately cached and restored by the editor prebuild callback.",
+  "limitations": [
+    "Fresh native build, actual intro rendering/dismissal and controller input acceptance for this game remain unverified.",
+    "Prior builds/probes do not include this new intro."
+  ],
+  "verifiedPurchasedOrigin": {
+    "pack": "UI MMORPG Dark Templar Wenrexa",
+    "sourceManifest": "fortressclash-unity/ContentPipeline/ui/menu-assets.json"
+  },
+  "purchaseClassificationAudit": {
+    "originalPaidManifestVerified": true,
+    "freeArtRejectedByInstaller": true,
+    "imageChanged": false
+  }
+}

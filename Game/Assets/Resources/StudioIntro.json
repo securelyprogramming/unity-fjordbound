@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "enabled": true,
+  "creator": "ProgrammingSecurely",
+  "website": "https://programmingsecurely.com/",
+  "gameTitle": "Fjordbound",
+  "durationSeconds": 3,
+  "showGameBehind": true,
+  "preferredPanelResources": [
+    "StudioIntroArt/Panel"
+  ],
+  "skipQaArguments": [
+    "-frontier-capture",
+    "-frontier-lan-role",
+    "-frontier-qa",
+    "-frontier-report"
+  ],
+  "purchasedPanel": {
+    "pack": "UI MMORPG Dark Templar Wenrexa",
+    "sourceProject": "fortressclash-unity/Assets/_FortressClash/Resources/Art/UI/CouncilPanel.png",
+    "product": "Source game ContentPipeline/ui/menu-assets.json",
+    "cacheFile": "bd131c57af08bb1c6bf7b49b50041b5b976f098028d5b467eebea949925f71ce.png",
+    "sha256": "bd131c57af08bb1c6bf7b49b50041b5b976f098028d5b467eebea949925f71ce",
+    "bytes": 103818,
+    "provenance": "User-owned Humble Game Dev GUI Goodness selection; original source and licence retained privately."
+  }
+}
